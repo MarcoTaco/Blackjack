@@ -1,2 +1,2 @@
 # Blackjack
-Program to start my github
+Program to start my github career
